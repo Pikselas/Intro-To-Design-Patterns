@@ -1,0 +1,3 @@
+## FACTORY PATTERN
+
+### Type: Creational
